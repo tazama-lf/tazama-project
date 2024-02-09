@@ -1,8 +1,8 @@
 # Contributing
 
-Welcome to EKuta!  An Open-Source Software Transaction Monitoring Solution for Fraud Detection
+Welcome to Tazama!  An Open-Source Software Transaction Monitoring Solution for Fraud Detection
 
-To learn more about what EKuta does and how it works please see our [website] or [product overview](https://frmscoe.atlassian.net/wiki/spaces/FRMS/pages/6488065/Product+Overview). 
+To learn more about what Tazama does and how it works please see our [website] or [product overview](https://frmscoe.atlassian.net/wiki/spaces/FRMS/pages/6488065/Product+Overview). 
 
 We'd love to accept your patches and contributions to this project. There are just a few small guidelines you need to follow.
 
@@ -21,7 +21,7 @@ again.
 
 ## Community Guidelines
 
-The EKuta project Code of Coduct follows the Contributor Covenant, version 2.0, 
+The Tazama project Code of Coduct follows the Contributor Covenant, version 2.0, 
 available at https://www.contributor-covenant.org/version/2/0/code_of_conduct.html.
 
 For answers to common questions about this code of conduct, see the FAQ at https://www.contributor-covenant.org/faq. 
@@ -38,4 +38,4 @@ information on using pull requests.
 
 ## Contact us
 
-For any questions, concerns or issues please email operations@ekuta.org
+For any questions, concerns or issues please email operations@Tazama.org
