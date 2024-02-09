@@ -1,7 +1,7 @@
-# Technical​ ​Charter (the “Charter”) for <br> Ekuta Project
+# Technical​ ​Charter (the “Charter”) for <br> Tazama Project
 Adopted November 29, 2023
 
-This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Ekuta open source project (the “Project”), which has been established as a project of LF Charities, Inc. , a Delaware nonprofit corporation and Section 509(a)(3) supporting organization that is tax exempt under Section 501(c)(3) of the Internal Revenue Code of the United States (“LF Charities”).  All contributors (including committers, maintainers, and other technical positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter. 
+This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the Tazama open source project (the “Project”), which has been established as a project of LF Charities, Inc. , a Delaware nonprofit corporation and Section 509(a)(3) supporting organization that is tax exempt under Section 501(c)(3) of the Internal Revenue Code of the United States (“LF Charities”).  All contributors (including committers, maintainers, and other technical positions) and other participants in the Project (collectively, “Collaborators”) must comply with the terms of this Charter. 
 
 ## 1. Mission and Scope of the Project 
 <ol type="a">
