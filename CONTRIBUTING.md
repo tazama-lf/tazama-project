@@ -35,6 +35,11 @@ use GitHub pull requests for this purpose. Consult
 [GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
 information on using pull requests.
 
+## Committers of the Project
+
+- Greg McCormick (The Linux Foundation)
+- Justus Ortlepp (Tazama)
+- Matt Bohan (Bill & Melinda Gates Foundation)
 
 ## Contact us
 
