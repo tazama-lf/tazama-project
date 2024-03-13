@@ -87,7 +87,6 @@ assignees: Justus-at-Tazama
 - [x] `Logged` (needs assessment)
 - [ ] `Assessed by Product Manager`
 - [ ] `Assessed by Technical Steering Committee` (needs funding)
-- [ ] `Assessed by Technical Steering Committee` (needs funding)
 - [ ] `Funded by Charitable Committee` (needs planning)
 - [ ] `Planned by Technical Steering Committee` (needs delivery)
 
