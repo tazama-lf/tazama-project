@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: Apache-2.0 -->
+
 # Contributing
 
 Welcome to Tazama!  An Open-Source Software Transaction Monitoring Solution for Fraud Detection
