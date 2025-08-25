@@ -49,8 +49,6 @@ assignees: Justus-at-Tazama
 
 ## Definition of Ready
 
-##### Review the [Tazama Contribution Guide](https://github.com/frmscoe/docs/blob/main/Community/Tazama-Contribution-Guide.md) for more detailed information on our definition of ready.
-
 - [ ] Design and architecture complete
 - [ ] Committee approvals complete
 - [ ] User story/ies prioritized in the product backlog
@@ -64,7 +62,7 @@ assignees: Justus-at-Tazama
 
 ## Definition of Done
 
-##### Review the [Tazama Contribution Guide](https://github.com/frmscoe/docs/blob/main/Community/Tazama-Contribution-Guide.md) for more detailed information on our definition of done.
+##### Review the [Tazama Definition of Done](https://github.com/tazama-lf/docs/blob/dev/Guides/definition-of-done.md) for more detailed information.
 
 - [ ] Development complete
 - [ ] Unit testing complete
